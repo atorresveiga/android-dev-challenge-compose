@@ -9,5 +9,16 @@
       or implied. See the License for the specific language governing permissions and limitations under
       the License.
       -->
-    <string name="app_name">AndroidDevChallenge</string>
+    <string name="app_name">Happy Pet Shelter</string>
+    <string name="button_filter">Filter</string>
+    <string name="button_apply">Apply</string>
+
+
+    <string name="label_discover">Discover</string>
+    <string name="label_profile">Profile</string>
+    <string name="label_back">Back</string>
+
+    <string name="label_why_im_here">Why I\'m Here</string>
+    <string name="label_behaviour">Behaviour</string>
+    <string name="label_description">Description</string>
 </resources>
