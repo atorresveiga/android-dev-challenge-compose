@@ -21,6 +21,7 @@ It was a very fun opportunity to learn about Jetpack Compose and forget about xm
 
 ## Resources
 The App icon was made by [Becris](https://www.flaticon.com/authors/becris) from [Flaticon](https://www.flaticon.com)
+
 Awesome photos from [Unsplash](https://unsplash.com/)
 
 ## License
