@@ -119,7 +119,7 @@ fun HomeAppBar() {
         )
         IconButton(
             modifier = Modifier.align(Alignment.CenterVertically),
-            onClick = {  }
+            onClick = { }
         ) {
             Icon(
                 imageVector = HappyPetShelterIcons.AccountCircle,
