@@ -17,7 +17,7 @@ It was a very fun opportunity to learn about Jetpack Compose and forget about xm
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">&emsp;<img src="/results/screenshot_3.png" width="260">
-<img src="/results/screenshot_4.png" width="260">&emsp;<img src="/results/screenshot_5.png"
+<img src="/results/screenshot_4.png" width="260">&emsp;<img src="/results/screenshot_5.png" width="260">
 
 ## Resources
 The App icon was made by [Becris](https://www.flaticon.com/authors/becris) from [Flaticon](https://www.flaticon.com)
